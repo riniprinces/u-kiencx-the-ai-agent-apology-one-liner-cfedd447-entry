@@ -1,0 +1,1 @@
+{"description":"One-line apology from an AI agent to its human, right after it pushed to main, deleted the backup, and emailed the boss the diff.","license":"MIT","main":"main.ts","name":"u-kiencx-the-ai-agent-apology-one-liner-cfedd447-entry","scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
